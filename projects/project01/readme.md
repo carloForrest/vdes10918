@@ -6,11 +6,11 @@ Worth 25%
 You will develop an interaction design artifact–a simple calculator or random generator–using HTML, CSS and JavaScript that integrates user behaviour (e.g., clicking, hovering, touching, shaking, scrolling and dragging). Your task is to create an index.html file that Javascript is written into following page load. Your content should include text, graphics and animation to enhance the interaction. It must include at least 2 forms of user interaction (e.g., hover/transition techniques, inputs, variable requests).
 
 Examples:
-	- Area or perimeter calculator
-	- Tip calculator
-	- Grade calculator
-	- Password generator
-	- Lottery ticket maker
+- Area or perimeter calculator
+- Tip calculator
+- Grade calculator
+- Password generator
+- Lottery ticket maker
 
 _It is recommended that you run your idea past your instructor to ensure it fits the needs of the assignment._
 

@@ -69,7 +69,7 @@ To achieve the critical performance, students will have demonstrated the ability
 ### Required Textbook
 
 Marquis, M. (2016). [Javascript for Web Designers](https://abookapart.com/products/javascript-for-web-designers). A Book Apart.
-_Use *HESCRP-117* before January 31 to save 15% on the book._
+_Use **HESCRP-117** before January 31 to save 15% on the book._
 
 ### Recommended Reading
 
