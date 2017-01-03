@@ -1,1 +1,0 @@
-https://www.smashingmagazine.com/2010/01/shopping-for-bedsheets-how-hard-could-it-be/

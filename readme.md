@@ -6,9 +6,30 @@ This course gives you the opportunity to build dynamic Web pages that contain da
 
 ## Software
 
-We will be using Brackets to write HTML, CSS and JS.
+We will be using [Brackets](http://brackets.io/) to write HTML, CSS and JS.
 
-_Later in the semester you will be using, PhoneGap Developer App and PhoneGap Build to publish for iPhone/ Android/ Windows device. This will build on your existing knowledge of HTML5, CSS3, and introduce Javascript._
+## READING LIST
+
+### Required Textbook
+
+Marquis, M. (2016). [Javascript for Web Designers](https://abookapart.com/products/javascript-for-web-designers). A Book Apart.
+_Use **HESCRP-117** before January 31 to save 15% on the book._
+
+### Recommended Reading
+
+Duckett, J. (2014). JavaScript and JQuery: Interactive Front-End Web Development. Wiley Publishing.
+
+Krug, S. (2006), Don't make me think! : a common sense approach to Web usability. New Riders.
+
+Norman, D. A. (2013). The design of everyday things: Revised and expanded edition. Basic books.
+
+Lupton, E. (Ed.). (2014). Beautiful Users: Designing for People. Chronicle Books.
+
+Lupton, E. (2014). Type on Screen: A Critical Guide for Designers, Writers, Developers, and Students. Chronicle Books.
+
+## Schedule
+
+_TBD_
 
 ## Grading
 
@@ -41,10 +62,6 @@ The principle of academic honesty requires that all work submitted for evaluatio
 
 Students who have any questions regarding whether or not specific circumstances involve a breach of academic honesty are advised to discuss them with the faculty member prior to submitting the assignment in question. For more info, see the Library’s Academic Honesty at Sheridan page.
 
-## Schedule
-
-_TBD_
-
 ## Learning Outcomes
 
 To achieve the critical performance, students will have demonstrated the ability to:
@@ -64,22 +81,5 @@ To achieve the critical performance, students will have demonstrated the ability
 	- responsibility for self direction
 	- commitment to the responsible use of reference materials.
 
-## READING LIST
 
-### Required Textbook
-
-Marquis, M. (2016). [Javascript for Web Designers](https://abookapart.com/products/javascript-for-web-designers). A Book Apart.
-_Use **HESCRP-117** before January 31 to save 15% on the book._
-
-### Recommended Reading
-
-Duckett, J. (2014). JavaScript and JQuery: Interactive Front-End Web Development. Wiley Publishing.
-
-Krug, S. (2006), Don't make me think! : a common sense approach to Web usability. New Riders.
-
-Norman, D. A. (2013). The design of everyday things: Revised and expanded edition. Basic books.
-
-Lupton, E. (Ed.). (2014). Beautiful Users: Designing for People. Chronicle Books.
-
-Lupton, E. (2014). Type on Screen: A Critical Guide for Designers, Writers, Developers, and Students. Chronicle Books.
 
