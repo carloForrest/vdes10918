@@ -22,9 +22,11 @@ I can be reached at [ryan.price1@sheridancollege.ca](mailto: ryan.price1@sherida
 
 Emailing me the night before an assignment is due, will not likely get the desired response time, so stay on top of work to ensure your questions do not go unanswered.
 
-## Software
+## Software & Hardware
 
 We will be using [Brackets](http://brackets.io/) to write HTML, CSS and JS.
+
+A smartphone of some kind (iOS, Android, etc.) will be needed to test the final project.
 
 ## READING LIST
 
