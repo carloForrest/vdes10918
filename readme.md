@@ -4,6 +4,24 @@
 
 This course gives you the opportunity to build dynamic Web pages that contain data that changes. As a result we will be using Javascript to update the page and control CSS to give the user updates. We will start simply but these will become Web apps, then eventually we will progress to creating an App for a mobile device, using the same knowledge of HTML, CSS and JS. HTML is the content, CSS is the design and JS becomes the behaviour or controls the page interactions. 
 
+Instructor: Ryan Price    
+Email: [ryan.price1@sheridancollege.ca](mailto: ryan.price1@sheridancollege.ca)    
+Office hours: upon appointment
+
+## Communication
+
+### Office Hours
+
+My office time is split between B122D & J119. An appointment is necessary.
+
+### Email
+
+Make sure that you check your Sheridan email account regularly, as I may send any course updates and information to this account. You can setup your account to forward to your personal email account, so you never miss any relevant information. You should also setup your Slate email to forward to your Sheridan email as well.
+
+I can be reached at [ryan.price1@sheridancollege.ca](mailto: ryan.price1@sheridancollege.ca) and will reply within 24 hours except on the weekends.
+
+Emailing me the night before an assignment is due, will not likely get the desired response time, so stay on top of work to ensure your questions do not go unanswered.
+
 ## Software
 
 We will be using [Brackets](http://brackets.io/) to write HTML, CSS and JS.
@@ -28,23 +46,60 @@ Lupton, E. (Ed.). (2014). Beautiful Users: Designing for People. Chronicle Books
 Lupton, E. (2014). Type on Screen: A Critical Guide for Designers, Writers, Developers, and Students. Chronicle Books.
 
 ## Schedule
+_**Please note**: This schedule may change with advance notice from your instructor._
 
-_TBD_
+- Week 01
+	- What is Javascript?
+	- Variables
+	- If statements
+	- Date objects
+- Week 02
+	- Affordances & Usability
+	- Random & Math
+	- Adding content to the DOM
+- Week 03
+	- Conventions
+	- CSS Animations
+- Week 04
+	- Forms & Inputs
+- Week 05
+	- Geolocation
+- Week 06
+	- Prototyping
+	- APIs & JSON
+- Week 07
+	- Debugging for Mobile
+- Week 08
+	- PACT analysis
+	- Web app functionality
+- Week 09
+	- Sign posts
+	- Objects & Arrays
+- Week 10
+	- User Testing
+	- LocalStorage
+- Week 11
+	- Paper prototypes
+- Week 12
+	- Mobile Design Considerations
+- Week 13
+	- Work period
+- Week 14
+	- Final Project presentations
 
 ## Grading
 
+All assignments are to be completed for the start of class on the date assigned unless noted otherwise.
+
 - Assignment 1 (25%) 
 	- Simple Dynamic Data web page
-	- Due WEEK 5 (Week of )
+	- Due WEEK 5 (Week of Feb 6)
 - Assignment 2 (25%) 
 	- Two dynamic features web page 
-	- Due WEEK 5 (Week of )
-- Assignment 3 (30%) 
+	- Due WEEK 8 (Week of )
+- Assignment 3 & 4 (50%) 
 	- Festival Experience App
-	- Due WEEK 5 (Week of )
-- Assignment 4 (20%)
-	- Festival Experience App Documentation
-	- Due WEEK 5 (Week of )
+	- Due WEEK 11 (Week of Mar 27) & 14 (Week of Apr 17)
 
 ## Late Work
 
@@ -54,7 +109,7 @@ If there is a valid reason for the late assignment, the student must email their
 
 There will be no resubmission of work unless, under exceptional circumstances, this has been agreed to or suggested by the professor.
 
-PLEASE NOTE - Computer hardware/software failure does not constitute a valid reason for a late assignment, please make regular back-ups of your work to ensure timely delivery of your project. Extra storage on [Dropbox](https://db.tt/KtXMYmmi) is available using this link.
+**PLEASE NOTE** - Computer hardware/software failure does not constitute a valid reason for a late assignment, please make regular back-ups of your work to ensure timely delivery of your project. Extra storage on [Dropbox](https://db.tt/KtXMYmmi) is available using this link.
 
 ## Academic Honesty
 
